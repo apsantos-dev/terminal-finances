@@ -5,6 +5,7 @@ This is the file and folder structure template adopted for this project.
 ```sh
 /
 └── terminal-finances/
+    ├── .github
     ├── src/
     │   └── ...
     ├── .markdownlint.json

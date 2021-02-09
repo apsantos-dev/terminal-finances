@@ -146,10 +146,8 @@ _See license details at:_
 [changelog-ln]: CHANGELOG.md "Click here to open the file"
 [contributing-img]: https://img.shields.io/badge/terminal_finances-CONTRIBUTE-orange.svg?style=flat-square
 [contributing-ln]: CONTRIBUTING.md "Contribute to make this project even better"
-
 [github-stars-img]: https://img.shields.io/github/stars/terroo/terminal-finances.svg?style=social&label=Star
 [github-stars-ln]: https://github.com/terroo/terminal-finances/stargazers "See who likes this design = ]"
-
 [github-forks-img]: https://img.shields.io/github/forks/terroo/terminal-finances.svg?style=social&label=Fork
 [github-forks-ln]: https://github.com/terroo/terminal-finances/fork "Click to view Star details of this project"
 [license-img]: https://img.shields.io/badge/license-GNU_GPLv3-blue.svg?style=flat-square
